@@ -1,0 +1,8 @@
+type,price,quantity,size,barcode,id
+Apple,R3,30,170g,00112334,1
+Banana,R3,35,118g,01453455,2
+Pear,R4,35,230g,02456845,3
+Mango,R12,50,165g,04455889,4
+Grapes,R10,50,500g,07558258,5
+Orange,R3,30,184g," 0125471",6
+Peach,R4,25,147g,00457821,7
