@@ -1,0 +1,8 @@
+type,price,quantity,size,barcode,id,description,"stock price"
+Simba,R6,25,250g,01528856,1,NULL,NULL
+Lays,R7,20,250g,00256598,2,NULL,NULL
+Doritos,R7,25,"250g ",01536895,3,NULL,NULL
+Fritos,R3,30,28g,08805522,4,NULL,NULL
+Cheetos,R4,40,30g,01102255,5,NULL,NULL
+Pringles,R19,15,28g,02266894,6,NULL,NULL
+Niknaks,R3,50,28g,02556685,7,NULL,NULL
